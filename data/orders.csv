@@ -1,0 +1,4 @@
+customer_name,customer_address,customer_phone,courier,order_status,items
+Sofia,17 Hill Rd ha9,07915707292,1,delivered,2
+Bruce,67 SQL city nw10,02089368365,2,pending,0 1
+Willy,67 SQL city nw10,02089368360,2,delivered,0 2
