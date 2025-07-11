@@ -1,2 +1,6 @@
-## The repo demonstrates a console-based Python app that uses a Docker-managed database to support a food delivery business with inventory and courier management. All personal data is fictitious and was created solely for development purposes.
+## Repository Overview
+
+This repository features a console-based Python application designed to support a simulated food delivery business. The app integrates with a Docker-managed database and includes modules for inventory tracking and courier management.
+
+> ⚠️ **Note:** All personal data within the project is entirely fictitious and intended solely for development and testing purposes.
 
